@@ -25,7 +25,9 @@ function draw() {
   fill("red");
   arc(170,650,25,15,TWO_PI, PI,CHORD);
   arc(230,650,25,15,TWO_PI, PI,CHORD);
-  line(175,425,)
+  line(175,425,130,450);
+  line(130,450,175,475);
+  ellipse(180,475,20,15)
 
  
 }
