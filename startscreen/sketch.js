@@ -47,8 +47,8 @@ function draw() {
     line(230,windowHeight-200,230,windowHeight-100);  
     line(170,windowHeight-200,170,windowHeight-100);
     fill("red");
-    arc(170,windowHeight-100,25,15,TWO_PI, PI,CHORD);
-    arc(230,windowHeight-100,25,15,TWO_PI, PI,CHORD);
+    arc(170,windowHeight-110,25,15,TWO_PI, PI,CHORD);
+    arc(230,windowHeight-110,25,15,TWO_PI, PI,CHORD);
     line(175,windowHeight-330,130,windowHeight-370);
     line(130,windowHeight-370,150,400);
     ellipse(150,400,20,15);
