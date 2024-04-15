@@ -5,6 +5,7 @@ public class Average {
         two = n2;
     }
     public void average(){
+        // formula for finding average
         average = (one+two)/2;
     }
     public void print(){
